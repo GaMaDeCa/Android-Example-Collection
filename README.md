@@ -2,7 +2,7 @@
 Android Templates and Examples Collection for Learning, Commented.
 
 <ul>
- <li>ExpandedListView</li>
+ <li>ExpandableListView</li>
 </ul>
 
 
