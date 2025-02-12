@@ -2,7 +2,9 @@
 Android Templates and Examples Collection for Learning, Commented.
 
 <ul>
- <li>ExpandableListView</li>
+ <li>CustomView(TODO>Upload) - CustomView example using Canvas to draw</li>
+ <li><s>ListView(TODO>Upload)</s></li>
+ <li>ExpandableListView - ListView with extra steps</li>
 </ul>
 
 
