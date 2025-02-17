@@ -3,7 +3,7 @@ Android Templates and Examples Collection for Learning, Commented.
 
 <ul>
  <li><s>AlertDialog(TODO>Upload) - Customized AlertDialogs</s></li>
- <li><s>CustomView(TODO>Upload) - CustomView example using Canvas to draw</s></li>
+ <li>CustomView - CustomView example using Canvas to draw</li>
  <li><s>ListView(TODO>Upload) - ListView example with custom xml item</s></li>
  <li>ExpandableListView - ListView with extra steps</li>
 </ul>
