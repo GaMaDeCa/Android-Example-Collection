@@ -8,9 +8,9 @@ Android Templates and Examples Collection for Learning, Commented.
  <li>ExpandableListView - ListView with extra steps</li>
 </ul>
 
-
-
-I accept requests for customs examples, contact me.
+ExpandableListView Icon:
+https://www.flaticon.com/free-icon/list_4394562
+I'm accepting requests for customs examples, contact me.
 
 ### Support me
 Pix:
