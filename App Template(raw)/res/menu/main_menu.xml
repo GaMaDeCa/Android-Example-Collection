@@ -1,8 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/set_brick_image"
-        android:title="@string/set_brick"/>
-    <item
-        android:id="@+id/exit_app"
-        android:title="@string/exit"/>
-</menu>
